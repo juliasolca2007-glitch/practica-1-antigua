@@ -1,0 +1,12 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Firebase
+.firebase/
+firebase-debug.log*
+*.log
+
+# Dependències i credencials
+node_modules/
+.env
